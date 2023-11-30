@@ -27,13 +27,3 @@ text-size-adjust: 100;
 {
 text-align: center;
 }
-.Furina check.html
-{
-H: 50px;
-text-align: center;
-background-image: url('barbara.jpg');
-background-repeat: no-repeat;
-background-size: cover;
-height: 100vh;
-background-position: center;
-}
