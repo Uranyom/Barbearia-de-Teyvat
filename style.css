@@ -6,6 +6,7 @@ height: 100vh;
 background-position: center;
 
 
+
 }
 ul
 {
@@ -17,13 +18,20 @@ padding: 199px;
 }
 a
 {
-  color: darkred;
-  text-decoration:wavy color cyan;
-text-shadow: black;
-text-shadow: black 16px;
+color: rgb(255, 255, 255);
+  text-decoration:underline;
+text-decoration-color:rgb(128, 0, 36);
 text-size-adjust: 100;
+text-shadow:rgb(255, 0, 0) height=100px;
+
 }
+
 .center
 {
 text-align: center;
 }
+
+ a:hover 
+ {
+  color: #F00;
+ }

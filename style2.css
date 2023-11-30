@@ -2,18 +2,19 @@
 ul
 {
 
-justify-content: center;
+justify-content:space-around;
 display: flex;
 list-style: none;
-padding: 199px;
+padding: 200px;
 }
 a
 {
   color: darkred;
-  text-decoration:wavy color cyan;
+  text-decoration:overline;
 text-shadow: black;
 text-shadow: black 16px;
 text-size-adjust: 100;
+
 }
 .center
 {
